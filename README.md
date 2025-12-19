@@ -86,12 +86,12 @@ This is the create() method in MySqlSalesOrderDao that handles checkout. It's in
 # 🚧 Future Enhancements
 
 * Checkout button works in the browser
-* Better designing 
+* Better designing
+* Discount Codes & Promotions
 * Order Tracking
 * Payment Integration
 * Email Notifications
 * Product Recommendations
-* Discount Codes & Promotions
 * Product Reviews & Ratings
 * Wishlist Functionality
 
@@ -100,6 +100,7 @@ This is the create() method in MySqlSalesOrderDao that handles checkout. It's in
 Judy Sitero 
 
 GitHub: @judysitero
+
 
 
 
